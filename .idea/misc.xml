@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.115" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/ic_baseline_play_circle_filled_24.xml" value="0.115" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.204" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.204" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/info.xml" value="0.187" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/refresh.xml" value="0.204" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/s.xml" value="0.196" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/shape.xml" value="0.204" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/shape1.xml" value="0.179" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/shape2.xml" value="0.187" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/shape3.xml" value="0.196" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/shape4.xml" value="0.196" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/stop.xml" value="0.1" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/drawable/timer.xml" value="0.204" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/layout/activity_menu.xml" value="0.176" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/layout/activity_settings.xml" value="0.205859375" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/layout/activity_splash_screen.xml" value="0.205859375" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.137" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/ANDROID F9/Puzzle/app/src/main/res/mipmap/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
